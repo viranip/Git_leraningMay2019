@@ -1,2 +1,7 @@
 forth file
+<<<<<<< HEAD
 update feature1 branch
+=======
+
+update
+>>>>>>> feature2
